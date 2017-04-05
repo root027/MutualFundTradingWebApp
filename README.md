@@ -1,6 +1,3 @@
-# Team2
-Repository for Team2
-
 # IMPORTANT
 
 The source code of the web application is in the `webapp` directory.
